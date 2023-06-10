@@ -1,0 +1,4 @@
+.venv/
+subsetted_fonts/
+poetry.lock
+.DS_Store
